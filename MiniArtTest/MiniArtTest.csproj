@@ -62,6 +62,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="TestData\Artwork.png" />
     <Content Include="TestData\Artwork.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
